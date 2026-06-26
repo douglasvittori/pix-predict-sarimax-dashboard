@@ -65,10 +65,24 @@ O projeto foi construído utilizando o ecossistema técnico de Ciência de Dados
 
    streamlit run app.py
 
-   Desenvolvedor
+## 💻 Desenvolvedor
 
-    Douglas Vittori - Cientista de Dados em Formação
+   Douglas Vittori - Cientista de Dados em Formação
 
-    🔗 Conecte-se comigo no LinkedIn
+   🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/douglasvittori/)
 
-    🚀 Conheça meu Portfólio de Dados
+   🚀 Conheça meu [Portfólio de Dados](https://douglasvittori-portfolio.lovable.app/)
+
+   ## 🛠️ Tecnologias e Ferramentas Utilizadas
+
+O projeto foi construído utilizando o ecossistema moderno de Ciência de Dados e Desenvolvimento em Python:
+
+| Ferramenta | Descrição |
+| :--- | :--- |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Linguagem base utilizada para análise, modelagem e desenvolvimento do app. |
+| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | Manipulação de dados, tratamento das séries temporais e engenharia de recursos. |
+| ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | Operações matemáticas vetoriais e execução da soma acumulada (`cumsum`). |
+| ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) | Framework utilizado para construir toda a interface web e o painel interativo. |
+| ![Git LFS](https://img.shields.io/badge/Git_LFS-ECEFF4?style=for-the-badge&logo=git-lfs&logoColor=000) | Gerenciamento e armazenamento do arquivo pesado do modelo preditivo (167 MB). |
+| **Statsmodels** | Biblioteca estatística utilizada para o treinamento e projeção com o algoritmo **SARIMAX**. |
+| **Joblib** | Persistência em disco, salvamento e carregamento rápido do modelo treinado (`.pkl`). |
