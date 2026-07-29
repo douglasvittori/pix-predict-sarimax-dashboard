@@ -1,6 +1,6 @@
 # 🎯 Pix Predict: Dashboard de Previsão de Transações Pix para Fintech
 
-[![Streamlit App](https://static.streamlit.io/badge_穩定.svg)](https://SEU-LINK-AQUI.streamlit.app/)
+🚀 **Acesse o Dashboard Online:** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pix-predict-sarimax-dashboard.streamlit.app/)
 
 Este projeto foi desenvolvido para resolver um problema real de planejamento e operações em uma Fintech: **prever o volume diário de transações via Pix**. 
 
